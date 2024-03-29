@@ -25,6 +25,7 @@ h1 {
 
 .song {
     margin: 10px 0; /* Increased margin */
+    list-style-type: none;
 }
 
 .song-title {
